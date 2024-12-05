@@ -1,5 +1,5 @@
 # Guide by Zoaib Khan
-Made by following a [guide](https://www.youtube.com/watch?v=RNr1QZM4A38) on Youtube
+Made by following a [guide](https://youtu.be/RNr1QZM4A38?si=AhqpUhxFoKS2Zw7_) on Youtube
 
 
 # AngularPracticeEcomm
