@@ -1,3 +1,8 @@
+# Guide by Zoaib Khan
+Made by following a guide on Youtube
+Link: https://www.youtube.com/watch?v=RNr1QZM4A38
+
+
 # AngularPracticeEcomm
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
